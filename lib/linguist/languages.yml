@@ -8299,6 +8299,14 @@ Yacc:
   ace_mode: text
   color: "#4B6C4B"
   language_id: 409
+Yooz:
+  type: markup
+  color: "#000000"
+  ace_mode: text
+  tm_scope: source.yooz
+  extensions:
+  - ".yooz"
+  language_id: 300103
 Yul:
   type: programming
   color: "#794932"
